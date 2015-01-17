@@ -11,15 +11,16 @@ description: Landing page of Umangsaini.in. Personal website of Umang saini.
 <ul>
   
 <h1>Latest Post</h1>
-{% for post in site.posts limit:1 %}
+{% for post in site.posts limit:2 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      <br>
+      {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
     </li>
 
 {% endfor %}
 <h1>Recent Posts</h1>
-{% for post in site.posts offset:1 limit:5 %}
+{% for post in site.posts offset:2 limit:5 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
