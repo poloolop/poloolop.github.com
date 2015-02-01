@@ -1,14 +1,18 @@
 ---
+layout: post
 published: true 
 description: "New feature in online classifieds site Quickr"
 category: null
 tags: 
   - Miscellaneous
 ---
+{% include JB/setup %}
 
 ## Classified
 
+<p>
 There's been a recent proliferation in online classified sites, and their value proposition is super strong. You want to buy/sell any item/service, you make a post on these sites, and within minutes you get several quotes from interested individuals or vendors. 
+</p>
 
 So what's the catch? There are several. The market doesn't really have a clear winner, as is the case in other countries, and thus to get sufficnet number of interested parties to look at your posting, you may have to cross post on multiple classified sites. This makes it tedious to track your postings and the responses you get. There are other logistic problems as well, and number one is the way in which you get responses from interested  parties. Following are the ways they may contact you
 
