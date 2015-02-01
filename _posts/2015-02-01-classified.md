@@ -1,5 +1,6 @@
 ---
-published: false
+published: true 
+description: "New feature in online classifieds site Quickr"
 category: null
 tags: 
   - Miscellaneous
