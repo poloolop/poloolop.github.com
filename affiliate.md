@@ -15,8 +15,10 @@ Flipkart Mobile - <a href="http://dl.flipkart.com/dl/offers?affid=poloolopgm" ta
 Flipkart Mobile Xiaomi - <a href="http://dl.flipkart.com/dl/mi/note-4g?affid=poloolopgm" target="_blank">Link</a><br />
 Flipkart Mobile 820 - <a href="http://fkrt.it/RH9R0xNN" target="_blank">Link</a><br />
 <br />
+
+
 Amazon <br />
-<script language="javascript" type="text/javascript"> var aax_size= '160x600'; var aax_pubname = 'existexist-21'; var aax_src='302'; </script><script language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js" type="text/javascript"></script>
+<script type="text/javascript" language="javascript"> var aax_size='728x90'; var aax_pubname = 'existexist-21'; var aax_src='302'; </script><script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
 
 <a href="http://www.amazon.in/gp/product/B00EJBA7HC/ref=as_li_tf_tl?ie=UTF8&amp;camp=3626&amp;creative=24790&amp;creativeASIN=B00EJBA7HC&amp;linkCode=as2&amp;tag=existexist-21">Sony Xperia M (Single SIM, Black)</a><img alt="" border="0" src="http://ir-in.amazon-adsystem.com/e/ir?t=existexist-21&amp;l=as2&amp;o=31&amp;a=B00EJBA7HC" height="1" style="border: none !important; margin: 0px !important;" width="1" />
 
