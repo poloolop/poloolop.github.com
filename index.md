@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Existence Exists!
-tagline: Umang Saini
+tagline: Website of Umang Saini
 description: Landing page of Umangsaini.in. Personal website of Umang saini.
 ---
 {% include JB/setup %}
