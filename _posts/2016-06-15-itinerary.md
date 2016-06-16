@@ -6,7 +6,7 @@ category: null
 tags: 
   - India
   - Miscellaneous
-published: true
+published: false
 ---
 
 Living in Bangalore for over 10 years now, I've had a chance to explore the surroundings quite a bit. New wave of convenient online services make it extremely easy to plan such excursions to minute detail. For example, take  Yatra's <a href="http://www.yatra.com/flight-schedule/ " target="_blank"> Flight Schedule </a> page, it gives convenient flights to  many tourist locations at reasonable prices. Similarly  <a href="http://www.yatra.com/international-flights/bangalore-to-singapore-flights" target="_blank">Bangalore to Singapore Flights</a>,  etc are direct links to tourist destinations from Bangalore. It's now far easier to plan using such websites and stay within one's chosen budget.
