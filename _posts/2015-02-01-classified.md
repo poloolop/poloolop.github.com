@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true 
+published: false 
 description: "New feature in online classifieds site Quikr"
 category: null
 tags: 
