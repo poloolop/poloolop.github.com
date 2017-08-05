@@ -16,6 +16,12 @@ Flipkart Mobile Xiaomi - <a href="http://dl.flipkart.com/dl/mi/note-4g?affid=pol
 Flipkart Mobile 820 - <a href="http://fkrt.it/RH9R0xNN" target="_blank">Link</a><br />
 <br />
 
+<script type="text/javascript" language="javascript">
+      var aax_size='300x600';
+      var aax_pubname = 'existexist-21';
+      var aax_src='302';
+    </script>
+    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
 
 Amazon <br />
 <script type="text/javascript" language="javascript"> var aax_size='728x90'; var aax_pubname = 'existexist-21'; var aax_src='302'; </script><script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
