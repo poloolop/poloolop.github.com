@@ -1,0 +1,31 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Existence Exists
+paginate:       5
+baseurl:        ""
+url:            "https://umangsaini.in"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Umang Saini
+  url:          https://umangsaini.in
+  email:        poloolop@gmail.com
+
+# Custom vars
+version:        3.4.1
+github:	        
+  repo:         https://github.com/poloolop/poloolop.github.com
+
+# Gems
+plugins:
+  - jekyll-paginate
