@@ -7,6 +7,10 @@ paginate:       5
 baseurl:        ""
 url:            "https://umangsaini.in"
 
+google_analytics: UA-606859-6
+twitter_username: poloolop
+github_username:  poloolop
+
 # Assets
 sass:
   sass_dir:     _sass
