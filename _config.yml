@@ -31,6 +31,16 @@ version:        3.4.1
 github:	        
   repo:         https://github.com/poloolop/poloolop.github.com
 
+jekyll-archives:
+  enabled: []
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: ':year/:month'
+    tag: '/tag/:name'
+    category: '/category/:name'
+
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-archives
