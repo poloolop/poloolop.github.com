@@ -44,3 +44,4 @@ jekyll-archives:
 plugins:
   - jekyll-paginate
   - jekyll-archives
+  - jekyll-sitemap
