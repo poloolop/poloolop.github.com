@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: post
 title: "Affiliate"
 description: ""
+author: "Umang Saini"
+permalink: /affiliate/
 ---
-{% include JB/setup %}
 
 Flipkart <br />
 <a href="http://www.flipkart.com/apple-iphone-5/p/itmdkmjpp5juv9ha?pid=MOBDKMJE4FTQHRZU&amp;affid=poloolopgm"><img src="http://img8a.flixcart.com/www/prod/images/buy_btn_1-161e3e31.png" /></a>
