@@ -13,7 +13,7 @@ Basti, Uttarkashi, Agra, Roorkee, Hardwar, Meerut, Agra, Bangalore, Greater Noid
 Electrical Engineer,  Grudger, A is A,  Contrarian
 
 
-1. Grudger - From Nice
+1. Grudger - From [Nice](http://umangsaini.in/2007/06/nice/)
 2. A is A - From Atlas Shrugged
 3. Contrarian - For keeping conversations interesting
 
