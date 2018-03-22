@@ -7,7 +7,12 @@ permalink: /affiliate/
 ---
 
 Flipkart <br />
+
+<a href="http://www.flipkart.com/apple-iphone-5/p/itmdkmjpp5juv9ha?pid=MOBDKMJE4FTQHRZU&amp;affid=poloolopgm"><img src="http://img8a.flixcart.com/www/prod/images/buy_btn_1-161e3e31.png" /></a> 
+
 <div data-WRID="WRID-152170978840140052" data-widgetType="staticBanner" data-responsive="yes" data-class="affiliateAdsByFlipkart" height="250" width="300"></div><script async src="//affiliate.flipkart.com/affiliate/widgets/FKAffiliateWidgets.js"></script>
+
+<div data-WRID="WRID-152170997395329575" data-widgetType="productBanner"  data-class="affiliateAdsByFlipkart" height="240px" width="120px"></div><script async src="//affiliate.flipkart.com/affiliate/widgets/FKAffiliateWidgets.js"></script>
 
 <br />
 
