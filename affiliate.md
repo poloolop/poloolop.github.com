@@ -7,14 +7,8 @@ permalink: /affiliate/
 ---
 
 Flipkart <br />
-<a href="http://www.flipkart.com/apple-iphone-5/p/itmdkmjpp5juv9ha?pid=MOBDKMJE4FTQHRZU&amp;affid=poloolopgm"><img src="http://img8a.flixcart.com/www/prod/images/buy_btn_1-161e3e31.png" /></a>
+<div data-WRID="WRID-152170978840140052" data-widgetType="staticBanner" data-responsive="yes" data-class="affiliateAdsByFlipkart" height="250" width="300"></div><script async src="//affiliate.flipkart.com/affiliate/widgets/FKAffiliateWidgets.js"></script>
 
-<br />
-<br />
-Flipkart Home Page = <a href="http://dl.flipkart.com/dl/?affid=poloolopgm" target="_blank">Link</a><br />
-Flipkart Mobile - <a href="http://dl.flipkart.com/dl/offers?affid=poloolopgm" target="_blank">Link</a><br />
-Flipkart Mobile Xiaomi - <a href="http://dl.flipkart.com/dl/mi/note-4g?affid=poloolopgm" target="_blank">Link</a><br />
-Flipkart Mobile 820 - <a href="http://fkrt.it/RH9R0xNN" target="_blank">Link</a><br />
 <br />
 
 
