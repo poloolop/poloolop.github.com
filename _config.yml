@@ -45,3 +45,4 @@ plugins:
   - jekyll-paginate
   - jekyll-archives
   - jekyll-sitemap
+  - jekyll-feed
