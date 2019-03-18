@@ -25,7 +25,7 @@ After the initial formalities were done, we were set for the week long process a
 In my naivety, I chose the topic of **Optimism** as title of my essay and wrote about my travel experience to Varanasi, noting my observations of the sheer variety of people I met during the journey. My key point was to contrast that with the future we are to collectively build a happy and prosperous country together. I wrote about my hopes for the future to take our country and its people to new heights and establish a society based on excellence and equality for all. I was only 16 then, and given the unusual topic and content of the essay, it was pointed to me during my personal interview. I explained my rational behind the essay and the interviewer seemed to be content with my answer. This is one point I remember in detail, fourteen years after the actual interview. We have come a long way since then, and there is still a long journey ahead of us, but I am every more optimistic about future.
  
 ## Conclusion
-I have no regrets of not entering IAF at the time, however it would've been a dramatically different life for me had I got it. I am always optimistic of the future prospects being significantly better than the past. Similar optimism is shown by new branding exercise by Housing.com. Have a look at their [LookUp](https://housing.com/lookup) brand page, which also shares the message of optimism behind the brand concept.
+I have no regrets of not entering IAF at the time, however it would've been a dramatically different life for me had I got it. I am always optimistic of the future prospects being significantly better than the past.
 
 Hope Floats.
 
