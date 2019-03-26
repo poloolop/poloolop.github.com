@@ -17,8 +17,6 @@ Flipkart <br />
 <br />
 
 
-Amazon <br />
-<script type="text/javascript" language="javascript"> var aax_size='728x90'; var aax_pubname = 'existexist-21'; var aax_src='302'; </script><script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
 
 Amazon
 
@@ -28,6 +26,9 @@ Amazon
       var aax_src='302';
     </script>
     <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
+    
+LINK - https://amzn.to/2TWeiqi
+
 
 <br />
 Myntra <br />
