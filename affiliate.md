@@ -27,7 +27,7 @@ Amazon
     </script>
     <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
     
-LINK - https://amzn.to/2TWeiqi
+LINK - [Amazon](https://amzn.to/2TWeiqi)
 
 
 <br />
