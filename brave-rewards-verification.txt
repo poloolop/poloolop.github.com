@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: umangsaini.cricket
+Token: a28ecad7856866b4db1ef1fd24856f57d577be6d7b1fcc1c3c4914c4545156ae
