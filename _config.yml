@@ -39,6 +39,13 @@ jekyll-archives:
     month: ':year/:month'
     tag: '/tag/:name'
     category: '/category/:name'
+    
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
 
 # Gems
 plugins:
@@ -46,3 +53,5 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
