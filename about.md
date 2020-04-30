@@ -19,3 +19,4 @@ Electrical Engineer,  Grudger, A is A,  Contrarian
 
 --
 US
+[@poloolop](https://twitter.com/poloolop)
