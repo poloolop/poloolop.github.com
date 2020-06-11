@@ -8,7 +8,7 @@ permalink: /about/
 
 <h1>Umang Saini</h1>
 <h2>Bio</h2>
-Basti, Uttarkashi, Agra, Roorkee, Hardwar, Meerut, Agra, Bangalore, Greater Noida, New Delhi, Bengaluru
+Basti, Uttarkashi, Agra, Roorkee, Haridwar, Meerut, Agra, Bangalore, Greater Noida, New Delhi, Bengaluru
 
 Electrical Engineer,  Grudger, A is A,  Contrarian
 
