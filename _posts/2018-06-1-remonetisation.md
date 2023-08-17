@@ -9,7 +9,7 @@ published: true
 ---
  
 {% include JB/setup %}
-I wrote briefly about [demonetisation](https://umangsaini.cricket/2016/12/tragedy/) last year. More than 18 months have passed, and cash levels are now well above pre-Demonetisation levels. It shows that India has missed a huge opportunity which had presented itself in the face of adversity. It has missed the opportunity to formalize vast swathes of informal economy.
+I wrote briefly about [demonetisation](../../../2016/12/tragedy/) last year. More than 18 months have passed, and cash levels are now well above pre-Demonetisation levels. It shows that India has missed a huge opportunity which had presented itself in the face of adversity. It has missed the opportunity to formalize vast swathes of informal economy.
 
 A lot of effort went into proving how it harmed the economy, and sadly that seems to be the primary outcome from it. Those who did see it as an opportunity couldn't capitalize and we are back at staus quo. A recent HSBC report suggests that GST may have contributed in the sharp return of cash [Link](http://www.newindianexpress.com/business/2018/jun/23/gst-is-yet-to-formalise-economy-demand-for-cash-high-hsbc-report-1832234.html)
 
