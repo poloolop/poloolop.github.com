@@ -6,7 +6,7 @@ permalink:      /:year/:month/:title/
 title:          Existence Exists
 paginate:       5
 baseurl:        ""
-url:            "https://umangsaini.mom"
+url:            "https://umangsaini.site"
 
 google_analytics: G-TH16YSS8SM
 twitter_username: poloolop
@@ -23,7 +23,7 @@ markdown:       kramdown
 # About
 author:
   name:         Umang Saini
-  url:          https://umangsaini.mom
+  url:          https://umangsaini.site
   email:        poloolop@gmail.com
 
 # Custom vars
